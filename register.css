@@ -1,0 +1,26 @@
+body{
+    background-image: url(cupcake.png);
+    background-repeat: no-repeat;
+    background-size: 1920px 950px;
+}
+form{
+    border: solid;
+    width: 500px;
+    margin-left: 800px;
+    margin-top: 100px;
+    background-color: black;
+}
+h1{
+    color:aquamarine;
+    text-align: center;
+}
+label{
+    color:pink;
+    font-size: 30px;
+    font-weight: bold;
+}
+input{
+    height: 40px;
+    width: 400px;
+   
+}
